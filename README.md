@@ -20,6 +20,7 @@ Smooth Scroll Navigation
 Cross-Browser Compatibility
 
 Technologies Used 🛠️
+
 HTML5 Semantic Markup
 
 CSS3 (Flexbox, Grid)
